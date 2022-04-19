@@ -3,15 +3,15 @@
 
 <div align="center">
   
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Hckrinston&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yuuhe4fun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 </div>
 
 <p align="center">
   <br><br>
   <strong>⚡ Check out my work below! </strong>
   <br><br>
-  <a href="https://github.com/Hckrinston">
-    <img src="https://badges.pufler.dev/visits/Hckrinston/Hckrinston?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/yuuhe4fun">
+    <img src="https://badges.pufler.dev/visits/yuuhe4fun/yuuhe4fun?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/yuuhe4fun">
     <img src="https://badges.pufler.dev/years/yuuhe4fun?style=flat-square&color=black&logo=github">
