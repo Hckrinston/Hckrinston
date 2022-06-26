@@ -2,7 +2,7 @@
 <p> Hi, I'm Yu HE! Welcome to my fantacy land!<p>
 
 <div align="center">
-  
+
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=yuuhe4fun&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 </div>
 
@@ -23,7 +23,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/yuuhe4fun?style=flat-square&color=black&logo=github">
   </a>
 </p>
-  
+
 ---
 
 ### A Brief Introduction
@@ -33,13 +33,16 @@
 
 ---
 ### 📖 Education Background
-<img align="right" height="94px" width="94px" src="./pic/beihang.jpg"/>
+
+<img align="left" height="94px" width="94px" src="./pic/beihang.jpg"/>
+
 **Graduate Student** \
 [**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
 Skills: `C/C++`, `Verilog`, `Python`, `IC Design` \
 Featured Projects: 
 
-<img align="right" height="94px" width="94px" src="./pic/nwpu.png"/>
+<img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
+
 **Bachelor Degree** \
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
 Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
