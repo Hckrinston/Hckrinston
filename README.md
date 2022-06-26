@@ -55,7 +55,7 @@ Featured Projects:
 <img align="left" height="94px"  alt="DiDi" src="./pic/enflame.png"/>
 
 **Digital IC Front-end Design** \
-[**Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - now \
+[**燧原科技 Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - now \
 Languages & Technologies:   \
 Featured Projects: 
 <br>
