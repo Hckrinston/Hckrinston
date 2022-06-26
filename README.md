@@ -40,6 +40,7 @@
 [**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
 Skills: `C/C++`, `Verilog`, `Python`, `IC Design` \
 Featured Projects: 
+<br/>
 
 <img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
 
@@ -47,6 +48,19 @@ Featured Projects:
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
 Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
 Featured Projects: 
+<br/>
+
+### ⛳ Work Experience
+
+<img align="left" height="94px"  alt="DiDi" src="./pic/enflame.png"/>
+
+**Digital IC Front-end Design** \
+[**Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - now \
+Languages & Technologies:   \
+Featured Projects: 
+<br>
+
+---
 
 <!--
 **Hckrinston/Hckrinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
