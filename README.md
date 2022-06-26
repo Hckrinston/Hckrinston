@@ -33,11 +33,13 @@
 
 ---
 ### 📖 Education Background
+<img align="right" height="94px" width="94px" src="./pic/beihang.jpg"/>
 **Graduate Student** \
 [**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
 Skills: `C/C++`, `Verilog`, `Python`, `IC Design` \
 Featured Projects: 
 
+<img align="right" height="94px" width="94px" src="./pic/nwpu.png"/>
 **Bachelor Degree** \
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
 Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
