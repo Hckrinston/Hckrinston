@@ -52,7 +52,7 @@ Featured Projects:
 
 ### ⛳ Work Experience
 
-<img align="left" height="94px"  alt="DiDi" src="./pic/enflame.png"/>
+<img align="left" height="94px" src="./pic/enflame.png"/>
 
 **Digital IC Front-end Design** \
 [**燧原科技 Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - now \
