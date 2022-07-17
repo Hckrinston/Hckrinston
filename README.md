@@ -10,18 +10,6 @@
   <br><br>
   <strong>⚡ Check out my work below! </strong>
   <br><br>
-  <a href="https://github.com/yuuhe4fun">
-    <img src="https://badges.pufler.dev/visits/yuuhe4fun/yuuhe4fun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/yuuhe4fun">
-    <img src="https://badges.pufler.dev/years/yuuhe4fun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/yuuhe4fun?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/yuuhe4fun?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/yuuhe4fun">
-    <img src="https://badges.pufler.dev/commits/monthly/yuuhe4fun?style=flat-square&color=black&logo=github">
-  </a>
 </p>
 
 ---
