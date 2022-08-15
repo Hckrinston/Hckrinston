@@ -44,8 +44,8 @@ Featured Projects:
 
 **Digital IC Front-end Design** \
 [**燧原科技 Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - now \
-Languages & Technologies:   \
-Featured Projects: 
+Languages & Technologies: `Verilog`, `SystemVerilog`, `Python`, `Ruby`  \
+Featured Projects: `Address Hash for share memory`, `Bus Trace Agent`
 <br>
 
 ---
