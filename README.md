@@ -16,7 +16,7 @@
 
 ### A Brief Introduction
 - 👻 Here is my ORCID: <a href="https://orcid.org/0000-0002-4366-4849/">https://orcid.org/0000-0002-4366-4849/</a>
-- 🏫 Yu He currently works at the School of Integrated Circuit Science and Engineering, pursuing his master degree at <a href="https://www.buaa.edu.cn/">Beihang University (BUAA)</a> under the guidence of <a href="http://shi.buaa.edu.cn/hyu/zh_CN/index.htm">Prof. Haiming Yu</a>.
+- 🏫 **Yu HE (何煜)** currently works at [the School of Integrated Circuit Science and Engineering, Beihang University (BUAA)](http://www.sme.buaa.edu.cn/), and just finished his master studies in Prof. [Haiming YU](https://www.researchgate.net/profile/Haiming-Yu-4)'s group from Sept. 2021 to June 2023. Subsequently, he is pursuing his PhD degree in AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12)'s group from Sept. 2023. Yu does research in Superconducting spintronics under the guidance of AP. [Guang YANG](https://www.researchgate.net/profile/Guang-Yang-12) and Prof. [Jason W.A. Robinson](https://scholar.google.co.uk/citations?user=mkH9powAAAAJ&hl).</a>.
 - 📫 You can get in touch with me by email at [hckrinston@gmail.com](mailto:hckrinston@gmail.com)
 
 ---
@@ -24,9 +24,9 @@
 
 <img align="left" height="94px" width="94px" src="./pic/beihang.jpg"/>
 
-**Graduate Student** \
+**PhD Student** \
 [**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
-Skills: `C/C++`, `Verilog`, `Python`, `IC Design` \
+Skills: `C/C++`, `Python`, `Nanofabrication`, `Cryogenic Measurements` \
 Featured Projects: 
 <br/>
 
@@ -34,7 +34,7 @@ Featured Projects:
 
 **Bachelor Degree** \
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
-Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
+Skills: `Electromagnetic Field and Microwave Technology`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
 Featured Projects: 
 <br/>
 
@@ -43,7 +43,7 @@ Featured Projects:
 <img align="left" height="94px" src="./pic/enflame.png"/>
 
 **Digital IC Front-end Design** \
-[**燧原科技 Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - now \
+[**燧原科技 Enflame Tech**](https://www.enflame-tech.com/) • 2022/07/04 - 2023/03/01 \
 Languages & Technologies: `Verilog`, `SystemVerilog`, `Python`, `Ruby`  \
 Featured Projects: `Address Hash for share memory`, `Bus Trace Agent`
 <br>
